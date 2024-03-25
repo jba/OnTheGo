@@ -1,0 +1,1 @@
+A sample of a static asset.
